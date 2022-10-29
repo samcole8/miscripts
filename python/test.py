@@ -1,0 +1,2 @@
+"""Prints hello."""
+print("hello")
